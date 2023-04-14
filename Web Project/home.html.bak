@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Home</title>
+<link rel="stylesheet" href="shark.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<div class="wrapper">
+	
+	<div class="hero-image">
+		<div class="hero-text">
+			<h1>Gym Shark</h1>
+		</div>
+	</div>
+	
+		
+
+
+
+
+	<nav>
+		<div class="logo">
+			<img src="Gymshark-Logo.png" alt="Gymshark Logo">
+		</div>
+		<ul>
+			<li><a href="home.html">Home</a></li>
+			<li><a href="FAQs.html">FAQ</a></li>
+			<li><a href="gym_schedule.html">Schedule</a></li>
+		</ul>
+	</nav>
+		
+	<main><br>
+		<iframe class="center-block" width="560" height="315" src="https://www.youtube.com/embed/Wt5SlONIRZ0?start=5" 
+		title="YouTube video playeh quality clothing pror" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<div class="vid_text">
+			<pre style="font-family:times new roman;"><strong> The gear you use while working out is key to your success and that's where Gymshark comes in.
+				  Gymshark provides high quality products suited for putting in hard work at the gym.</strong>
+			</pre>
+		</div>	
+		<hr>
+		<div id="pic">
+			<h2>Our Work</h2>
+			<img src="jacket.webp" alt="jacket" height="200" width="200">
+			<img src="wmnpants.webp" alt="wmnpants" height="200" width="200">
+			<img src="gloves.webp" alt="gloves" height="200" width="200">
+
+		</div>
+		<div class="image_text">
+			<h3>More Than Your Best Workout Clothing</h3>
+
+
+			<pre style="font-family:times new roman;">The Gymshark community is devoted to unlocking potential through conditioning and the things we do today to prepare for tomorrow.
+			 When it comes to performing at your max, there should be no obstacles – least of all your workout clothes. 
+			 So everything about the gym clothes and accessories we design for you has your progress and the best results in mind. 
+			 We want you to have the most comfortable gym hoodies, the most supportive seamless leggings and the most innovatively designed workout shirts that are made to move when it matters most.
+			 </pre>
+			 <br>
+			 <pre style="font-family:times new roman;">Game-changing workout clothing. It’s not just in the designs, it’s in the people who wear them.
+			 </pre>
+		</div>	 
+	</main>
+
+	<hr>
+	<div class="footer">
+		<h2>Our Social Media Platforms</h2>
+
+		<img src="snapchat.png" alt="snapchat" height="100" width="100">&nbsp;&nbsp;&nbsp;
+		<img src="facebook.png" alt="facebook" height="100" width="100">&nbsp;&nbsp;&nbsp;
+		<img src="twitter.png" alt="twitter" height="100" width="100">&nbsp;&nbsp;&nbsp;
+		<img src="instagram.png" alt="instagram" height="100" width="100">&nbsp;&nbsp;&nbsp;
+		<img src="youtube.png" alt="youtube" height="100" width="100">&nbsp;&nbsp;&nbsp;
+		<p> &copy; 2022 | Gymshark Limited | All Rights Reserved | Be a visionary </p>
+	</footer>
+</div>	
+</body>
+</html>
